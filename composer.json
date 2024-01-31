@@ -12,5 +12,9 @@
     "require": {
         "php": ">=7.2.0"
     },
-    "target-dir": "Mini"
+    "extra": {
+        "installer-paths": {
+            "{$name}": ["jasonweicn/mini"]
+        }
+    }
 }
