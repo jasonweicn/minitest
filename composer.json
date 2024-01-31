@@ -12,5 +12,5 @@
     "require": {
         "php": ">=7.2.0"
     },
-    "target-dir": "{$name}/Mini"
+    "target-dir": "Mini"
 }
