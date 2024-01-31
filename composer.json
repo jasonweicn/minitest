@@ -1,5 +1,5 @@
 {
-    "name": "jasonweicn/miniframework",
+    "name": "jasonweicn/minitest",
     "description": "Mini PHP Framework",
     "type": "library",
     "license": "Apache-2.0",
@@ -16,5 +16,6 @@
         "psr-4": {
             "Mini\\": ""
         }
-    }
+    },
+    "target-dir": "{$name}/Mini"
 }
