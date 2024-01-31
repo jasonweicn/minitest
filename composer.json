@@ -12,5 +12,5 @@
     "require": {
         "php": ">=7.2.0"
     },
-    "vendor-dir": "vendor/jasonweicn/mini"
+    "vendor-dir": "vendor/jasonweicn/Mini"
 }
